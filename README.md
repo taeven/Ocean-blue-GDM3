@@ -1,6 +1,11 @@
 # Ocean-blue-GDM3
 Ocean Blue GDM3 theme for ubuntu
 
+# Screenshots
+![single user](screenshots/singleUser.png?raw=true "user login")
+![Multiple user](screenshots/multipleUser.png?raw=true "multi user login")
+![Login screen](screenshots/singleLogin.png?raw=true "Login screen")
+
 # Setup Guide
 * Copy bg-boat.jpg to backgroung folder
 ```cp ~/Downloads/Ocean-blue-GDM3/bg-boat.jpg /usr/share/backgrounds/```
@@ -14,4 +19,3 @@ Ocean Blue GDM3 theme for ubuntu
 
 * Restart the pc 
 ```reboot -f```
-
