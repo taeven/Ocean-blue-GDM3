@@ -1855,8 +1855,9 @@ StScrollBar {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); }
 
 #lockDialogGroup {
-  background: #2c001e url(file:///usr/share/backgrounds/bg-boat.jpg);
-  background-repeat: repeat; }
+  background-image: url(/usr/share/backgrounds/bg-boat.jpg);
+  background-position: center;
+  background-repeat: no-repeat; }
 
 #screenShieldNotifications StButton#vhandle, #screenShieldNotifications StButton#hhandle {
   background-color: rgba(63, 63, 57, 0.3); }
